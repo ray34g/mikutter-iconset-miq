@@ -1,2 +1,2 @@
-mikutter-icon-gray
+mikutter-iconset-mq
 ==================
